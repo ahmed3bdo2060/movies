@@ -1,0 +1,24 @@
+{
+  "cart": "السلة",
+  "WelcomeAgain": "مرحبا بك مرة اخرى",
+  "youCanSignInNow": "يمكنك تسجيل الدخول الان",
+  "youCanRegisterNow": "يمكنك تسجيل حساب جديد الان",
+  "PhoneNumber": "رقم الجوال",
+  "Password": "كلمة المرور",
+  "confirmPassword": "تاكيد كلمة المرور",
+  "userName": "اسم المستخدم",
+  "ForgetPassword": "نسيت كلمة المرور؟",
+  "logIn": "تسجيل الدخول",
+  "city": "المدينة",
+  "don’tHaveAnAccount": "ليس لديك حساب ؟",
+  "haveAnAccount": "لديك حساب بالفعل ؟",
+  "signUp": "تسجيل الان",
+  "phoneMustBeNotEmpty": "حقل الجوال فارغ",
+  "passwordMustBeNotEmpty": "حقل الباسورد فارغ",
+  "invalidPhoneNumber": "رقم الجوال غير صحيح",
+  "invalidpassword": "كلمة المرور غير صحيحة",
+  "Register": "تسجيل",
+  "activateAccount": "تفعيل الحساب",
+  "verify": "تاكيد الكود"
+
+}

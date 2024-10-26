@@ -1,0 +1,25 @@
+{
+  "cart": "Cart",
+  "WelcomeAgain": "Welcome Again",
+  "youCanSignInNow": "You Can Sign In Now",
+  "PhoneNumber": "Phone Number",
+  "Password": "Password",
+  "confirmPassword": "Confirm Password",
+  "ForgetPassword": "Forget Password ?",
+  "logIn": "logIn",
+  "city": "City",
+  "don’tHaveAnAccount": "Don’t Have An Account ?",
+  "haveAnAccount": "You Have An Account ?",
+  "SignUp": "Sign Up Now",
+  "phoneMustBeNotEmpty": "phone must be not empty",
+  "passwordMustBeNotEmpty": "password must be not empty",
+  "invalidPhoneNumber": "invalid phone number",
+  "invalidPassword": "invalid Password",
+  "Register": "Register",
+  "userName": "user Name",
+  "activateAccount": "Activate Account",
+  "verify": "Verify"
+
+
+
+}
